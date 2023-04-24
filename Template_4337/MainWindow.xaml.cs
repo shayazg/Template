@@ -30,5 +30,11 @@ namespace Template_4337
             var window = new Khuzyakaev_4337();
             window.Show();
         }
+
+        private void Shayhieva_4337_Click(object sender, RoutedEventArgs e)
+        {
+            var shayazg = new Shayhieva_4337();
+            shayazg.Show();
+        }
     }
 }
