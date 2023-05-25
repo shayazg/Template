@@ -15,23 +15,13 @@ using System.Windows.Shapes;
 namespace Template_4337
 {
     /// <summary>
-    /// Логика взаимодействия для Shayhieva_4337.xaml
+    /// Логика взаимодействия для Gatieva_4337.xaml
     /// </summary>
-    public partial class Shayhieva_4337 : Window
+    public partial class Gatieva_4337 : Window
     {
-        public Shayhieva_4337()
+        public Gatieva_4337()
         {
             InitializeComponent();
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-
         }
     }
 }

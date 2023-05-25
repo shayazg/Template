@@ -56,9 +56,16 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Gatieva_4337.xaml.cs">
+      <DependentUpon>Gatieva_4337.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Shayhieva_4337.xaml.cs">
       <DependentUpon>Shayhieva_4337.xaml</DependentUpon>
     </Compile>
+    <Page Include="Gatieva_4337.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Khuzyakaev_4337.xaml" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
